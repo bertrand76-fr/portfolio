@@ -43,7 +43,7 @@ Cette plateforme illustre une architecture cloud moderne pour le traitement et l
 **Infrastructure Azure**
 - App Service pour les conteneurs backend
 - Static Web Apps pour le frontend
-- Azure Database for PostgreSQL (ou Neon externe)
+- Azure Database for PostgreSQL Postgis (ou Neon externe)
 - Container Registry pour les images Docker
 - Key Vault pour la gestion des secrets
 
